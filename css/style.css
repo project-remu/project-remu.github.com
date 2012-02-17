@@ -262,6 +262,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 	   color: -ms-linear-gradient(top,  rgba(203,224,248,1) 0%,rgba(203,224,248,1) 100%);
 	   color: linear-gradient(top,  rgba(203,224,248,1) 0%,rgba(203,224,248,1) 100%);
 	   -webkit-text-stroke: 1px white;
+	   text-transform: uppercase;
 	   margin-top: 70px;
    }
    
