@@ -245,7 +245,6 @@ table { border-collapse: collapse; border-spacing: 0; }
 	   color: -o-linear-gradient(top,  rgba(203,224,248,1) 0%,rgba(203,224,248,1) 100%);
 	   color: -ms-linear-gradient(top,  rgba(203,224,248,1) 0%,rgba(203,224,248,1) 100%);
 	   color: linear-gradient(top,  rgba(203,224,248,1) 0%,rgba(203,224,248,1) 100%);
-	   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cbe0f8', endColorstr='#cbe0f8',GradientType=0 );
 	   -webkit-text-stroke: 1px white;
 	   text-transform: lowercase;
    }
@@ -262,8 +261,6 @@ table { border-collapse: collapse; border-spacing: 0; }
 	   color: -o-linear-gradient(top,  rgba(203,224,248,1) 0%,rgba(203,224,248,1) 100%);
 	   color: -ms-linear-gradient(top,  rgba(203,224,248,1) 0%,rgba(203,224,248,1) 100%);
 	   color: linear-gradient(top,  rgba(203,224,248,1) 0%,rgba(203,224,248,1) 100%);
-	   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cbe0f8', endColorstr='#cbe0f8',GradientType=0 );
-	   text-transform: uppercase;
 	   -webkit-text-stroke: 1px white;
 	   margin-top: 70px;
    }
@@ -279,7 +276,6 @@ table { border-collapse: collapse; border-spacing: 0; }
 	   color: -o-linear-gradient(top,  rgba(203,224,248,1) 0%,rgba(203,224,248,1) 100%);
 	   color: -ms-linear-gradient(top,  rgba(203,224,248,1) 0%,rgba(203,224,248,1) 100%);
 	   color: linear-gradient(top,  rgba(203,224,248,1) 0%,rgba(203,224,248,1) 100%);
-	   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cbe0f8', endColorstr='#cbe0f8',GradientType=0 );
 	   text-transform: uppercase;
 	   margin-top: 50px;
 	   margin-bottom: 30px;
